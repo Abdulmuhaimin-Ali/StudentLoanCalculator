@@ -45,11 +45,9 @@ The project structure is organized as follows:
 
 StudentLoanCalculator
 ├── src
-│ └── StudentLoanApp.java
+│   └── StudentLoanApp.java
 └── README.md
 
-yaml
-Copy code
 
 ## Contributing
 
