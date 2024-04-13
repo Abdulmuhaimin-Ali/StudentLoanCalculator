@@ -44,10 +44,14 @@ To run the Student Loan Calculator on your local machine, follow these steps:
 The project structure is organized as follows:
 
 StudentLoanCalculator
-├── src
+---
+## Structure
+```text
+
+└── src
 │   └── StudentLoanApp.java
 └── README.md
-
+```
 
 ## Contributing
 
