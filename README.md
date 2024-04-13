@@ -44,7 +44,6 @@ To run the Student Loan Calculator on your local machine, follow these steps:
 The project structure is organized as follows:
 
 ---
-## Structure
 ```text
 StudentLoanCalculator
 └── src
