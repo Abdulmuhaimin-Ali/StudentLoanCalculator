@@ -47,6 +47,9 @@ The project structure is organized as follows:
 ```text
 StudentLoanCalculator
 └── src
+    ├── A_A_LoanPayable.java
+    ├── A_A_NegativeValueException.java
+    └── Student.java
 │   └── StudentLoanApp.java
 └── README.md
 ```
