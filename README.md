@@ -49,7 +49,7 @@ StudentLoanCalculator
 └── src
     ├── A_A_LoanPayable.java
     ├── A_A_NegativeValueException.java
-    └── Student.java
+    ├── Student.java
 │   └── StudentLoanApp.java
 └── README.md
 ```
